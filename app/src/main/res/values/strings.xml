@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Euchre</string>
+    <string name="beginner">Beginner\'s Tutorial</string>
+    <string name="select">Select Game</string>
+    <string name="easy">Easy</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="hard">Hard</string>
+    <string name="multi">Multi-Player</string>
+</resources>
